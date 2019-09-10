@@ -1,0 +1,1 @@
+this document contains task zero of emacs
